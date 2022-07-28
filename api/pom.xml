@@ -12,6 +12,10 @@
     <artifactId>api</artifactId>
     <packaging>jar</packaging>
 
+    <properties>
+        <exec.mainClass>kvbdev.api.Main</exec.mainClass>
+    </properties>
+
     <dependencies>
         <dependency>
             <groupId>kvbdev</groupId>
